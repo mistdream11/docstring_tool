@@ -18,7 +18,7 @@ pip install openai
     - 确保你已经安装了所需的依赖。
     - 运行脚本，按照提示输入 OpenAI API 密钥和项目文件夹路径。
 ```bash
-python script_name.py  # 将 script_name.py 替换为实际的脚本文件名
+python docstring_py&tsx.py
 ```
 2. **确认操作**：
     - 脚本会展示项目的统计信息，询问你是否开始生成注释。
