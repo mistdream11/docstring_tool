@@ -224,7 +224,6 @@ class DocstringGenerator:
         else:
             print("\n操作已取消。")
 
-# ... 其他方法保持不变 ...
 
 if __name__ == "__main__":
     api_key = input("请输入 OpenAI API 密钥: ")
